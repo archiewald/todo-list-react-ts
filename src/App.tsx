@@ -1,6 +1,20 @@
 import React, { Component } from "react";
+import { Task } from "./models/task";
 
-class App extends Component {
+interface State {
+  newTask: Task;
+  tasks: Task[];
+}
+
+class App extends Component<{}, State> {
+  state = {
+    newTask: {
+      id: 1,
+      name: ""
+    },
+    tasks: []
+  };
+
   render() {
     return (
       <div>
