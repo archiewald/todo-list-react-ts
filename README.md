@@ -1,5 +1,5 @@
-Find related article on https://www.kozubek.dev/2019/03/31/react-ts.html
-Play around on Stackblitz https://stackblitz.com/edit/react-ts-todo-list
+- Find related article on https://www.kozubek.dev/2019/03/31/react-ts.html
+- Play around on Stackblitz https://www.kozubek.dev/2019/03/31/react-typescript.html
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
